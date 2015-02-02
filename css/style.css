@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font: normal 14px arial, sans-serif;
+  background: #F7F7F7 url('../img/pattern.png') fixed;
+  color: #555;
+  margin: 0 20px 0 20px; }
+
+#heading {
+  text-align: center;
+  color: #3b5998; }
+
+.comment {
+  font-style: italic; }
+
+.commentAuthor {
+  color: #3b5998; }
+
+/*# sourceMappingURL=style.css.map */

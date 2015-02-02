@@ -1,0 +1,70 @@
+// Holla!
+
+$font-stack: normal 14px arial, sans-serif;
+$image-location: '../img/pattern.png';
+$anchor-color: #FFCCCC;
+$facebook-color: #3b5998; 
+
+*
+{ 
+  margin: 0;
+  padding: 0;
+}
+
+body
+{ 
+  font: $font-stack;
+  background: #F7F7F7 url($image-location) fixed;
+  color: #555;
+  margin: 0 20px 0 20px;
+}
+
+#heading {
+	text-align: center;
+	color: $facebook-color;
+}
+
+.comment {
+	font-style: italic;
+}
+
+.commentAuthor {
+		color: $facebook-color;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+  
+
