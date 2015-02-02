@@ -17,7 +17,7 @@ module.exports = function(grunt) {
           },
           hello: {
             command: function () {
-                return 'echo Installation Complete. Type \'Grunt\' and press Enter key to run the demo.';
+                return 'echo Installation process complete. Type \'Grunt\' and press Enter key to run the demo.';
             }
           }
         },
