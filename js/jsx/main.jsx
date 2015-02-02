@@ -5,7 +5,7 @@ var data = [
 ];
 
 React.renderComponent(
-	<h1 className="heading">New heading</h1>,
+	<h1 className="heading">New Title</h1>,
 	document.getElementById('heading')
 );
 
