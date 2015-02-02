@@ -1,1 +1,1 @@
-Checking out ReactJS - manas.mehrotra@accenture.com
+Checking out ReactJS
