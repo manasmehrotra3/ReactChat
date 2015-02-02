@@ -5,7 +5,7 @@ var data = [
 ];
 
 React.renderComponent(
-	<h1 className="heading">React Chat</h1>,
+	<h1 className="heading">New App</h1>,
 	document.getElementById('heading')
 );
 
